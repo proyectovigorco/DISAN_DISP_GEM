@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DISAN_DISP_GEM/static/css/main.2d6fd6cf.chunk.css",
+    "main.js": "/DISAN_DISP_GEM/static/js/main.2a860645.chunk.js",
+    "main.js.map": "/DISAN_DISP_GEM/static/js/main.2a860645.chunk.js.map",
+    "runtime-main.js": "/DISAN_DISP_GEM/static/js/runtime-main.5018e929.js",
+    "runtime-main.js.map": "/DISAN_DISP_GEM/static/js/runtime-main.5018e929.js.map",
+    "static/js/2.c1bed9d8.chunk.js": "/DISAN_DISP_GEM/static/js/2.c1bed9d8.chunk.js",
+    "static/js/2.c1bed9d8.chunk.js.map": "/DISAN_DISP_GEM/static/js/2.c1bed9d8.chunk.js.map",
+    "index.html": "/DISAN_DISP_GEM/index.html",
+    "static/css/main.2d6fd6cf.chunk.css.map": "/DISAN_DISP_GEM/static/css/main.2d6fd6cf.chunk.css.map",
+    "static/js/2.c1bed9d8.chunk.js.LICENSE.txt": "/DISAN_DISP_GEM/static/js/2.c1bed9d8.chunk.js.LICENSE.txt",
+    "static/media/arrow-right.669ffbe1.svg": "/DISAN_DISP_GEM/static/media/arrow-right.669ffbe1.svg",
+    "static/media/bar-chart-line-fill.5a41b6ec.svg": "/DISAN_DISP_GEM/static/media/bar-chart-line-fill.5a41b6ec.svg",
+    "static/media/delete.9137dae7.svg": "/DISAN_DISP_GEM/static/media/delete.9137dae7.svg",
+    "static/media/exclamation.7efd0ac0.svg": "/DISAN_DISP_GEM/static/media/exclamation.7efd0ac0.svg",
+    "static/media/lock.6f1d76c8.svg": "/DISAN_DISP_GEM/static/media/lock.6f1d76c8.svg",
+    "static/media/menu-icon.9dbc5a3a.svg": "/DISAN_DISP_GEM/static/media/menu-icon.9dbc5a3a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5018e929.js",
+    "static/js/2.c1bed9d8.chunk.js",
+    "static/css/main.2d6fd6cf.chunk.css",
+    "static/js/main.2a860645.chunk.js"
+  ]
+}
